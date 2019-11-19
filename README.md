@@ -3,6 +3,7 @@ Datas for "Effects of off-fault inelasticity on near-fault directivity pulses" s
 Data 
 
 Program we used is called "Support Operator Rupture Dynamics (SORD)"
+https://github.com/wangyf/SORDlatest
 
 SORD input configuration scripts:
 
